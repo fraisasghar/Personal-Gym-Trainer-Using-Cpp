@@ -34,3 +34,38 @@
 </p>
 
 
+
+
+
+
+## Introduction
+
+The **Personal Gym Trainer** is a C++ based application designed to provide personalized fitness guidance to users. By analyzing individual health metrics such as Body Mass Index (BMI), fitness level, and personal preferences, the system generates customized workout and diet plans. This project demonstrates practical application of fundamental programming concepts in a real-world health and fitness context.
+
+The program addresses the common challenge of creating effective workout routines by offering tailored recommendations based on scientific calculations and user-specific data, making fitness accessible and structured for everyone from beginners to experienced athletes.
+
+<img width="1980" height="1024" alt="image" src="https://github.com/user-attachments/assets/a7070467-8c03-442f-ba94-a6bf9bb83cf7" />
+
+
+## Core Functionalities
+- **BMI Calculation**: Automatically calculates Body Mass Index based on user inputs
+- **Personalized Workout Plans**: Generates weekly exercise routines based on fitness level
+- **Diet Recommendations**: Suggests calorie intake and nutrition plans
+- **Progress Tracking**: Allows users to track their fitness journey
+- **Experience-Based Plans**: Different routines for beginners, intermediates, and experts
+- **Location Flexibility**: Workout plans for both home and gym environments
+
+<img width="1980" height="1024" alt="image" src="https://github.com/user-attachments/assets/97d0d300-d7ab-4bad-b43b-3a09fdc06870" />
+
+
+## Technical Features
+- **User Input Handling**: Collects and processes personal health data
+- **Conditional Logic**: Implements complex decision-making based on multiple factors
+- **Modular Design**: Organized code structure with reusable functions
+- **Error Handling**: Manages invalid inputs gracefully
+- **Cross-platform**: Compatible with any system supporting C++
+
+<img width="320" height="360" alt="image" src="https://github.com/user-attachments/assets/85e48194-0d11-423b-9dac-c77eb68158bc" />  <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/f5a0a64d-f2cb-43db-b354-30627bf40a39" />
+
+
+
