@@ -4,15 +4,6 @@
 
 </div>
 
-
-
-
-
-
-
-
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/C++_DEVELOPMENT-0f172a?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/BMI_CALCULATOR-1e3a8a?style=flat-square&logo=healthicons&logoColor=white" alt="BMI" />
@@ -22,7 +13,6 @@
   <img src="https://img.shields.io/badge/MIT_LICENSE-047857?style=flat-square" alt="License" />
 </div>
 
-
 <!-- Stats Information - Badge Version -->
 <div align="center">
   <img src="https://img.shields.io/badge/FEATURES-6-00D4AA" alt="Features" />
@@ -30,12 +20,10 @@
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-28a745" alt="Status" />
 </div>
 
-
 <!-- Typing Animation - Gradient Color -->
 <div align="center" style="margin: 30px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=2000&pause=1000&color=0:00D4AA,100:FF6B8B&center=true&width=550&height=30&lines=GET+FIT+•+STAY+STRONG+•+ACHIEVE+GOALS;PERSONALIZED+DIET+•+WORKOUT+PLANS+•+PROGRESS+TRACKING" alt="Typing Animation" />
 </div>
-
 
 <!-- Attractive Gradient Divider -->
 <p align="center">
