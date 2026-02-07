@@ -65,7 +65,7 @@ The program addresses the common challenge of creating effective workout routine
 - **Error Handling**: Manages invalid inputs gracefully
 - **Cross-platform**: Compatible with any system supporting C++
 
-<img width="370" height="360" alt="image" src="https://github.com/user-attachments/assets/85e48194-0d11-423b-9dac-c77eb68158bc" />    <img width="370" height="340" alt="image" src="https://github.com/user-attachments/assets/f5a0a64d-f2cb-43db-b354-30627bf40a39" />
+<img width="390" height="380" alt="image" src="https://github.com/user-attachments/assets/85e48194-0d11-423b-9dac-c77eb68158bc" />    <img width="390" height="360" alt="image" src="https://github.com/user-attachments/assets/f5a0a64d-f2cb-43db-b354-30627bf40a39" />
 
 
 
