@@ -119,3 +119,32 @@ The **Personal Gym Trainer** project successfully demonstrates the practical app
 - Created adaptive workout plans for different fitness levels
 - Built user-friendly interface with clear instructions
 - Demonstrated practical use of programming fundamentals
+
+
+
+---
+
+
+
+
+<div align="center">
+
+🌟 **Transform Your Fitness Journey with Code-Powered Precision** 🌟
+
+If this project helped or inspired you, give it a ⭐ **Star** on GitHub!
+
+**Built with precision ❤️ for the Engineering Community**  
+               **Happy Designing!** ✨
+
+</div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
+
+
+
+
