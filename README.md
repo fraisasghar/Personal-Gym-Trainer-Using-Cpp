@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Project Banner](https://capsule-render.vercel.app/api?type=wave&color=0:00D4AA,50:FF6B8B,100:1e3a8a&height=180&section=header&text=+PERSONAL+GYM+TRAINER+&fontSize=50&fontColor=ffffff&animation=scale&desc=++++C%2B%2B+%7C+SMART+FITNESS+%7C+HEALTH+TRACKING++++&descSize=20&descAlignY=40&fontAlignY=20&stroke=ffffff&strokeWidth=1)
+  ![Project Banner](https://capsule-render.vercel.app/api?type=wave&color=0:00D4AA,50:FF6B8B,100:1e3a8a&height=200&section=header&text=+PERSONAL+GYM+TRAINER+&fontSize=50&fontColor=ffffff&animation=scale&desc=++++C%2B%2B+%7C+SMART+FITNESS+%7C+HEALTH+TRACKING++++&descSize=20&descAlignY=40&fontAlignY=20&stroke=ffffff&strokeWidth=1)
 
 </div>
 
@@ -65,7 +65,7 @@ The program addresses the common challenge of creating effective workout routine
 - **Error Handling**: Manages invalid inputs gracefully
 - **Cross-platform**: Compatible with any system supporting C++
 
-<img width="320" height="360" alt="image" src="https://github.com/user-attachments/assets/85e48194-0d11-423b-9dac-c77eb68158bc" />  <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/f5a0a64d-f2cb-43db-b354-30627bf40a39" />
+<img width="370" height="360" alt="image" src="https://github.com/user-attachments/assets/85e48194-0d11-423b-9dac-c77eb68158bc" />    <img width="370" height="340" alt="image" src="https://github.com/user-attachments/assets/f5a0a64d-f2cb-43db-b354-30627bf40a39" />
 
 
 
