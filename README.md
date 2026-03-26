@@ -34,10 +34,6 @@
 </p>
 
 
-
-
-
-
 ## Introduction
 
 The **Personal Gym Trainer** is a C++ based application designed to provide personalized fitness guidance to users. By analyzing individual health metrics such as Body Mass Index (BMI), fitness level, and personal preferences, the system generates customized workout and diet plans. This project demonstrates practical application of fundamental programming concepts in a real-world health and fitness context.
