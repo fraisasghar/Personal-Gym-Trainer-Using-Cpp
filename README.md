@@ -40,7 +40,7 @@ The **Personal Gym Trainer** is a C++ based application designed to provide pers
 
 The program addresses the common challenge of creating effective workout routines by offering tailored recommendations based on scientific calculations and user-specific data, making fitness accessible and structured for everyone from beginners to experienced athletes.
 
-<img width="1980" height="1024" alt="image" src="https://github.com/user-attachments/assets/a7070467-8c03-442f-ba94-a6bf9bb83cf7" />
+<img alt="image" src="https://github.com/user-attachments/assets/a7070467-8c03-442f-ba94-a6bf9bb83cf7" />
 
 
 ## Core Functionalities
@@ -51,7 +51,7 @@ The program addresses the common challenge of creating effective workout routine
 - **Experience-Based Plans**: Different routines for beginners, intermediates, and experts
 - **Location Flexibility**: Workout plans for both home and gym environments
 
-<img width="1980" height="1024" alt="image" src="https://github.com/user-attachments/assets/97d0d300-d7ab-4bad-b43b-3a09fdc06870" />
+<img alt="image" src="https://github.com/user-attachments/assets/97d0d300-d7ab-4bad-b43b-3a09fdc06870" />
 
 
 ## Technical Features
@@ -74,7 +74,7 @@ Most individuals struggle with maintaining consistent workout routines due to:
 **Intensity Issues** - Workouts either too easy or dangerously difficult  
 **Lack of Progression** - No adaptation to improving fitness levels
 
-<img width="1980" height="1024" alt="image" src="https://github.com/user-attachments/assets/5c9bcca1-d4d5-4502-8484-f4e5f423771e" />
+<img alt="image" src="https://github.com/user-attachments/assets/5c9bcca1-d4d5-4502-8484-f4e5f423771e" />
 
 
 ## The Solution Gap
@@ -86,7 +86,7 @@ Traditional approaches fail to provide:
 - Safe intensity guidelines  
 - Continuous motivation support
 
-  <img width="1980" height="1024" alt="image" src="https://github.com/user-attachments/assets/a849bca4-8a4c-4e0b-9d39-27a124dbf37f" />
+  <img alt="image" src="https://github.com/user-attachments/assets/a849bca4-8a4c-4e0b-9d39-27a124dbf37f" />
 
 
 
@@ -101,7 +101,7 @@ Traditional approaches fail to provide:
 6. **Track Progress** → Update and adjust as you improve
 
 
-<img width="1980" height="1024" alt="image" src="https://github.com/user-attachments/assets/e02c0b1f-3d63-48dd-84c9-0fb681e9bb18" />
+<img alt="image" src="https://github.com/user-attachments/assets/e02c0b1f-3d63-48dd-84c9-0fb681e9bb18" />
 
 
 
